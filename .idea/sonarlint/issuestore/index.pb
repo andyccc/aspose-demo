@@ -1,0 +1,23 @@
+
+o
+?src/main/java/com/example/asposedemo/AsposeDemoApplication.java,9/1/91ad80b5c07a0aff7c55de9be5c9a8e2e6562fb3
+k
+;src/main/java/com/example/asposedemo/utils/AsposeUtils.java,9/5/95a54ff95469b0bae8d19fa991648ec98cb19a47
+\
+,.idea/inspectionProfiles/Project_Default.xml,4/9/496a238a6afa168dbaf6efd37bb459331589579c
+n
+>src/main/java/com/example/asposedemo/utils/JavassistUtils.java,1/a/1a9efce782c2f5a34293f03b0c9b06e4784fc12e
+o
+?.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml,9/6/962ba66301d4387686a24686e00d76e409796162
+l
+<.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml,1/8/18f0eda0db0a483e46aea0432680fc3c9e6b58b9
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+t
+Dsrc/test/java/com/example/asposedemo/AsposeDemoApplicationTests.java,b/6/b6b88a4f435dc306f45cc94c80c9f0da24caa78b
+F
+libreOffice/Dockerfile,f/6/f66bfb513d0446cb7bba0e7cf5d4e8b4b889195c
+E
+libreOffice/README.md,d/7/d7893fb0bba854d4124da6925f819d65b8875919

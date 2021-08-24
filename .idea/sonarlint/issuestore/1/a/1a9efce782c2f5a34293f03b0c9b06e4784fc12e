@@ -1,0 +1,19 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¿ì¿Šûÿÿÿÿ8“Û½±·/
+Q
+java:S1144"/Remove this unused private "getLibPath" method.(Â÷Ñüÿÿÿÿ8–Ğ³·/
+
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "libPath".(ÜÂÊûÿÿÿÿ8³ÄÊ³·/
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(“¼Ñ³ÿÿÿÿÿ8“Û½±·/
+Q
+java:S1144"/Remove this unused private "crackWords" method.(¿ì¿Šûÿÿÿÿ8–Ğ³·/
+‰
+java:S1192"gDefine a constant instead of duplicating this literal "C:\\Users\\AT\\Desktop\\aspose\\modify" 3 times.(´™ÆÛüÿÿÿÿ8“Û½±·/
+n
+java:S1192"LDefine a constant instead of duplicating this literal "{return 1;}" 3 times.(¢±Š£üÿÿÿÿ8“Û½±·/
+R
+java:S1144"0Remove this unused private "crackSlides" method.(¦ŸôÓúÿÿÿÿ8“Û½±·/
+X	java:S125"<This block of commented-out lines of code should be removed.(äŞå8–Ğ³·/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦ŸôÓúÿÿÿÿ8“Û½±·/
+Q
+java:S1144'"/Remove this unused private "crackCells" method.(“¼Ñ³ÿÿÿÿÿ8™Ù¶³·/
